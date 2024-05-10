@@ -2,7 +2,7 @@
 
 این سوال با هدف به چالش کشیدن مهارت پیاده‌سازی HTML, CSS و JS شما طراحی شده. 
 
-در این (لینک)[https://www.figma.com/file/wgJd4CZdpGPqJVwBtAeWXi/Rahnema-College-Responsive-Navbar?type=design&node-id=10%3A2&mode=design&t=stltkYebOG8TazgR-1] می‌تونید به دیزاین طراحی شده در فیگما دسترسی پیدا کنید. 
+در [این لینک](https://www.figma.com/file/wgJd4CZdpGPqJVwBtAeWXi/Rahnema-College-Responsive-Navbar?type=design&node-id=10%3A2&mode=design&t=stltkYebOG8TazgR-1) می‌تونید به دیزاین طراحی شده در فیگما دسترسی پیدا کنید. 
 
 این چالش به ۳ قسمت تقسیم شده که امتیاز هر قسمت به صورت مجزا محاسبه می‌شود.
 
